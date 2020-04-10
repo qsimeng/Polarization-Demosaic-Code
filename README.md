@@ -18,7 +18,7 @@ Uplaod .mat file of scenes according to the dataset. Mono-polar and Color-polar 
 Dataset from [here](https://repository.kaust.edu.sa/handle/10754/631914) has two groups of images, normal illumination and polarized illumination. 
 
 * Polarized illumination: 
-scotch
+|scotch
 |plate
 |glassplasticcomp
 |glasscontainer
@@ -27,10 +27,10 @@ scotch
 |cellphonecases
 |carrier
 |ruler
-|containers
+|containers|
 
 * Normal illumination:
-plant
+|plant
 |fakefruit
 |dinosaur
 |bottles
@@ -59,4 +59,22 @@ plant
 |paint
 |printer
 |drinkingfountain
-|monitors
+|monitors|
+
+## Citation
+Please cite this work if it helps your research:
+```
+@inproceedings {v.20191325,
+booktitle = {Vision, Modeling and Visualization},
+editor = {Schulz, Hans-Jörg and Teschner, Matthias and Wimmer, Michael},
+title = ,
+author = {Qiu, Simeng and Fu, Qiang and Wang, Congli and Heidrich, Wolfgang },
+year = {2019},
+publisher = {The Eurographics Association},
+ISBN = {978-3-03868-098-7},
+DOI = {10.2312/vmv.20191325}
+}
+```
+
+## Contact
+If you have related questions, please contact: (Simeng Qiu <simeng.qiu@kaust.edu.sa>)
