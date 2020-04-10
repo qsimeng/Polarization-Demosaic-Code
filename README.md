@@ -13,8 +13,7 @@ Uplaod .mat file of scenes according to the dataset. Mono-polar and Color-polar 
 
 ## Dataset: 
 
-## ![Dataset gallery] <img src="Figure for Figure/gallery.jpg" width="500"/>
-(Figure/gallery.jpg)
+## ![Dataset gallery](Figure/gallery.jpg width="500")
 
 Dataset from [here](https://repository.kaust.edu.sa/handle/10754/631914) has two groups of images, normal illumination and polarized illumination. 
 
