@@ -6,57 +6,75 @@ Code and dataset for paper: Polarization Demosaicking for Monochrome and Color P
 
 This code is based on MATLAB.
 
-## ![Our selected results on Huber2d and Visualization ](.Figure/teaser.jpg)
+## ![Our selected results on Huber2d and Visualization ](Figure/teaser.jpg)
 
 ## Code Setup
 Uplaod .mat file of scenes according to the dataset. Mono-polar and Color-polar demosaicking require different parameters.
 
-## Dataset: [here](https://repository.kaust.edu.sa/handle/10754/631914)
+## Dataset: 
 
-## ![Dataset gallery](.Figure/gallery.jpg)
+## ![Dataset gallery](Figure/gallery.jpg)
 
-Dataset has two groups of images, normal illumination and polarized illumination. 
+Dataset from [here](https://repository.kaust.edu.sa/handle/10754/631914) has two groups of images, normal illumination and polarized illumination. 
 
-* Normal illumination: 
-- scotch
-- plate
-- glassplasticcomp
-- glasscontainer
-- cover
-- penstand
-- cellphonecases
-- carrier
-- ruler
-- containers
+* Polarized illumination: 
+|scotch
+|plate
+|glassplasticcomp
+|glasscontainer
+|cover
+|penstand
+|cellphonecases
+|carrier
+|ruler
+|containers|
 
-* Polarized illumination:
-- plant
-- fakefruit
-- dinosaur
-- bottles
-- ball
-- pomegranate
-- plastik
-- mirrorcard
-- tools
-- plastikcomp
-- mirrorphone
-- glasscube
-- funnel
-- fruit2
-- einstein
-- camera
-- caligraphset
-- cablelid
-- blackstuff
-- kettle
-- woodwall
-- screen
-- lock
-- door
-- chairs
-- floor
-- paint
-- printer
-- drinkingfountain
-- monitors
+* Normal illumination:
+|plant
+|fakefruit
+|dinosaur
+|bottles
+|ball
+|pomegranate
+|plastik
+|mirrorcard
+|tools
+|plastikcomp
+|mirrorphone
+|glasscube
+|funnel
+|fruit2
+|einstein
+|camera
+|caligraphset
+|cablelid
+|blackstuff
+|kettle
+|woodwall
+|screen
+|lock
+|door
+|chairs
+|floor
+|paint
+|printer
+|drinkingfountain
+|monitors|
+
+## Citation
+Please cite this work if it helps your research:
+```
+@inproceedings {v.20191325,
+booktitle = {Vision, Modeling and Visualization},
+editor = {Schulz, Hans-Jörg and Teschner, Matthias and Wimmer, Michael},
+title = ,
+author = {Qiu, Simeng and Fu, Qiang and Wang, Congli and Heidrich, Wolfgang },
+year = {2019},
+publisher = {The Eurographics Association},
+ISBN = {978-3-03868-098-7},
+DOI = {10.2312/vmv.20191325}
+}
+```
+
+## Contact
+If you have related questions, please contact: Simeng Qiu (<simeng.qiu@kaust.edu.sa>)
