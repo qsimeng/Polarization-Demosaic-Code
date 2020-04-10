@@ -77,4 +77,4 @@ DOI = {10.2312/vmv.20191325}
 ```
 
 ## Contact
-If you have related questions, please contact: (Simeng Qiu <simeng.qiu@kaust.edu.sa>)
+If you have related questions, please contact: Simeng Qiu (<simeng.qiu@kaust.edu.sa>)
