@@ -6,7 +6,7 @@ Code and dataset for paper: Polarization Demosaicking for Monochrome and Color P
 
 This code is based on MATLAB.
 
-## ![Our selected results on Huber2d and Visualization ](.Figure/teaser.jpg)
+## ![Our selected results on Huber2d and Visualization ](Figure/teaser.jpg)
 
 ## Code Setup
 Uplaod .mat file of scenes according to the dataset. Mono-polar and Color-polar demosaicking require different parameters.
