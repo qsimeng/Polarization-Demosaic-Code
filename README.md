@@ -11,7 +11,7 @@ This code is based on MATLAB.
 ## Code Setup
 Uplaod .mat file of scenes according to the dataset. Mono-polar and Color-polar demosaicking require different parameters.
 
-## Dataset: [here](https://repository.kaust.edu.sa/handle/10754/631914)
+## Dataset: 
 
 ## ![Dataset gallery](Figure/gallery.jpg)
 
@@ -19,44 +19,44 @@ Dataset from [here](https://repository.kaust.edu.sa/handle/10754/631914) has two
 
 * Polarized illumination: 
 scotch
-plate
-glassplasticcomp
-glasscontainer
-cover
-penstand
-cellphonecases
-carrier
-ruler
-containers
+|plate
+|glassplasticcomp
+|glasscontainer
+|cover
+|penstand
+|cellphonecases
+|carrier
+|ruler
+|containers
 
 * Normal illumination:
 plant
-fakefruit
-dinosaur
-bottles
-ball
-pomegranate
-plastik
-mirrorcard
-tools
-plastikcomp
-mirrorphone
-glasscube
-funnel
-fruit2
-einstein
-camera
-caligraphset
-cablelid
-blackstuff
-kettle
-woodwall
-screen
-lock
-door
-chairs
-floor
-paint
-printer
-drinkingfountain
-monitors
+|fakefruit
+|dinosaur
+|bottles
+|ball
+|pomegranate
+|plastik
+|mirrorcard
+|tools
+|plastikcomp
+|mirrorphone
+|glasscube
+|funnel
+|fruit2
+|einstein
+|camera
+|caligraphset
+|cablelid
+|blackstuff
+|kettle
+|woodwall
+|screen
+|lock
+|door
+|chairs
+|floor
+|paint
+|printer
+|drinkingfountain
+|monitors
