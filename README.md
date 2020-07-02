@@ -60,7 +60,8 @@ Dataset from [here](https://repository.kaust.edu.sa/handle/10754/631914) has two
 |printer
 |drinkingfountain
 |monitors|
-
+## Intensity Images (Ground Truth)
+This work is start from solveing Stokes vectors. If your implementation is begin from mosic intensity images, just simply run our monochrome and color main code until "Inten_gt", which contains mosic intensiy images at four different degrees.
 ## Citation
 Please cite this work if it helps your research:
 ```
