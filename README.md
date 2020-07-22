@@ -16,8 +16,6 @@ Uplaod .mat file of scenes according to the dataset. Mono-polar and Color-polar 
 ## ![Dataset gallery ](Figure/gallery.jpg)
 
 Dataset from [here](https://repository.kaust.edu.sa/handle/10754/631914) has two groups of images, normal illumination and polarized illumination. 
-If your initial implementation is from "Mosic Intensities Images" at four different angles, please refer to this mosic dataset [here](https://drive.google.com/drive/u/1/folders/1_s8fBOqyJPBo4v7Hb9yyk4FCf-YfGXgQ) .
-
 * Polarized illumination: 
 |scotch
 |plate
