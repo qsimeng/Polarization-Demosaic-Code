@@ -74,6 +74,17 @@ publisher = {The Eurographics Association},
 ISBN = {978-3-03868-098-7},
 DOI = {10.2312/vmv.20191325}
 }
+
+@inproceedings{qiu2021linear,
+  title={Linear polarization demosaicking for monochrome and colour polarization focal plane arrays},
+  author={Qiu, Simeng and Fu, Qiang and Wang, Congli and Heidrich, Wolfgang},
+  booktitle={Computer Graphics Forum},
+  volume={40},
+  number={6},
+  pages={77--89},
+  year={2021},
+  organization={Wiley Online Library}
+}
 ```
 
 ## Contact
