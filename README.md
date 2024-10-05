@@ -1,5 +1,7 @@
 # Mono-and-Color Polarization Demosaicking
 
+Please send me an email to request the code!  
+
 Code and dataset for paper: Polarization Demosaicking for Monochrome and Color Polarization Focal Plane Arrays
 
 [Project Page](https://vccimaging.org/Publications/Simeng2019PolarizationDemosaic/) | [Paper](https://vccimaging.org/Publications/Simeng2019PolarizationDemosaic/Simeng2019PolarizationDemosaic.pdf) | [Supplementary](https://vccimaging.org/Publications/Simeng2019PolarizationDemosaic/Simeng2019PolarizationDemosaicSupplement.pdf)
@@ -88,4 +90,4 @@ DOI = {10.2312/vmv.20191325}
 ```
 
 ## Contact
-If you have related questions, please contact: Simeng Qiu (<simeng.qiu@kaust.edu.sa>)
+If you have related questions, please contact: Simeng Qiu (<simeng.qiu@swansea.ac.uk>)
